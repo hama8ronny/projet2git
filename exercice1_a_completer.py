@@ -48,3 +48,5 @@ if 0 <= cc <= 20 and 0 <= examen <= 20 :  # Les DEUX notes valides
     print("-" * 40)
 if 0 >= cc >= 20 and 0 >= examen >= 20 :
     print("Erreur : les notes doivent etre comprises entre 0 et 20.")
+
+print("hello world")
